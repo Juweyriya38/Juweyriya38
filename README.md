@@ -1,16 +1,41 @@
-## Hi there 👋
+# Juweyriya Fedlu
 
-<!--
-**Juweyriya38/Juweyriya38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Network & System Security
 
-Here are some ideas to get you started:
+I'm a cybersecurity student at IBT College of Canada, currently focused on building practical skills in networking, system security, and hands-on cybersecurity labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Learning
+
+- Network Security
+- Cisco Networking
+- Linux & Windows
+- Active Directory
+- Web Security
+- CTFs & Security Labs
+- System Hardening
+
+### Hands-on Practice
+
+- VLANs, ACLs, OSPF, EIGRP & DHCP
+- Network troubleshooting with Cisco Packet Tracer
+- Windows Server & Active Directory
+- Kerberos, SMB & authentication
+- Security monitoring with Wazuh
+- Nmap, Wireshark & Burp Suite
+
+### Training
+
+**IBT College of Canada**  
+Advanced Cybersecurity
+
+**INSA Cyber Talent Summer Camp**  
+Information Network Security Administration
+
+### Certifications
+
+- IBM Cybersecurity Fundamentals
+- IBM Web Fundamentals
+
+### Connect
+
+[LinkedIn](YOUR_LINKEDIN_LINK) · [GitHub](https://github.com/Juweyriya38)
