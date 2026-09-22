@@ -2,7 +2,7 @@
 
 # Juweyriya Fedlu
 
-### Cybersecurity Student · Network & System Security
+### Cybersecurity Student # IBT collage of canada · Ncomputer science student @ Admas University
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1400&color=3F6B55&center=true&vCenter=true&width=500&lines=Learning+%7C+Building+%7C+Breaking;Network+Security+%7C+System+Security;Hands-on+Labs+%7C+CTFs+%7C+Cybersecurity" />
 
