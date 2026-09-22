@@ -1,93 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juweyriya%20Fedlu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Network%20%26%20System%20Security&descAlignY=60&descSize=18" width="100%"/>
+# Juweyriya Fedlu
+
+### Cybersecurity Student · Network & System Security
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1400&color=3F6B55&center=true&vCenter=true&width=500&lines=Learning+%7C+Building+%7C+Breaking;Network+Security+%7C+System+Security;Hands-on+Labs+%7C+CTFs+%7C+Cybersecurity" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Network+%26+System+Security;Learning+%7C+Building+%7C+Breaking;CTFs+%7C+Security+Labs+%7C+Networking" />
+<a href="https://www.linkedin.com/in/juweyriya-fedlu-a6b147349/">
+<img src="https://img.shields.io/badge/LinkedIn-3F6B55?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juweyriya-fedlu-a6b147349/)
-[![GitHub](https://img.shields.io/badge/GitHub-Juweyriya38-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juweyriya38)
+<a href="https://github.com/Juweyriya38">
+<img src="https://img.shields.io/badge/GitHub-3F6B55?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🛡️ About Me
----
+## About
 
-## 👋 About Me
+I'm a **Cybersecurity student at IBT College of Canada**, currently developing practical skills in **network security, system security, and hands-on cybersecurity labs**.
 
-I'm a **Cybersecurity student at IBT College of Canada**, currently focused on developing practical skills in **network security, system security, and cybersecurity labs**.
-
-My current learning path is centered more on **networking and hands-on security practice** than software development.
+My current focus is networking and security practice, with an interest in growing toward **security operations and defensive security**.
 
 ---
 
-## 🛡️ Current Focus
+## Current Focus
 
-| Area | Hands-on Practice |
+| Area | Practice |
 |---|---|
-| 🌐 Networking | VLANs • ACLs • OSPF • EIGRP • DHCP • WLAN |
-| 🔐 Network Security | Access control • VPNs • Hardening • Troubleshooting |
-| 🖥️ Systems | Linux • Windows Server • Active Directory |
-| 🎯 Security Practice | CTFs • Security Labs • Enumeration |
-| 🔎 Security Tools | Nmap • Wireshark • Burp Suite • Wazuh |
-| 🔑 Authentication | Kerberos • SMB • RDP |
+| **Networking** | VLANs · ACLs · OSPF · EIGRP · DHCP · WLAN |
+| **Network Security** | VPN · Access Control · Hardening · Troubleshooting |
+| **Systems** | Linux · Windows Server · Active Directory |
+| **Security Analysis** | Enumeration · Traffic Analysis · Web Security |
+| **Practice** | CTFs · Security Labs · Cybersecurity Challenges |
+| **Authentication** | Kerberos · SMB · RDP |
 
 ---
 
-## 🧪 Hands-on Labs
+## Tools
 
-Currently practicing with:
+<p align="center">
 
-- **Cisco Packet Tracer** for network configuration and troubleshooting
-- **Windows Server / Active Directory** for system and authentication security
-- **Linux** for security tooling and command-line work
-- **Wazuh** for security monitoring
-- **Nmap & Wireshark** for network discovery and analysis
-- **Burp Suite** for web security testing
-- **CTFs** for practical security problem-solving
+<img src="https://img.shields.io/badge/Linux-3F6B55?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-3F6B55?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Packet_Tracer-3F6B55?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nmap-3F6B55?style=flat-square&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-3F6B55?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-3F6B55?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wazuh-3F6B55?style=flat-square"/>
+<img src="https://img.shields.io/badge/Active_Directory-3F6B55?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kerberos-3F6B55?style=flat-square"/>
+<img src="https://img.shields.io/badge/Impacket-3F6B55?style=flat-square"/>
+
+</p>
 
 ---
 
-## 🎓 Training
+## Hands-on Practice
+
+- Cisco networking and troubleshooting with **Packet Tracer**
+- VLANs, ACLs, OSPF, EIGRP, DHCP and WLAN
+- Windows Server and **Active Directory**
+- **Kerberos and SMB** authentication
+- Network discovery and analysis with **Nmap & Wireshark**
+- Web security testing with **Burp Suite**
+- Security monitoring with **Wazuh**
+- Practical cybersecurity challenges and **CTFs**
+
+---
+
+## Training
 
 ### IBT College of Canada
+
 **Advanced Cybersecurity**
 
-Focused on networking, network security, system security, and practical cybersecurity labs.
+Practical training in networking, network security, system security and cybersecurity labs.
 
 ### INSA Cyber Talent Summer Camp
+
 **Information Network Security Administration**
 
 Hands-on cybersecurity training through the INSA Cyber Talent program.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **IBM Cybersecurity Fundamentals**
 - **IBM Web Fundamentals**
 
-> Additional certificates and training records are being organized in the [certifications](./certifications/) folder.
+Additional certificates and training records are organized in the [`certifications`](./certifications/) folder.
 
 ---
 
-## 🚀 What I'm Building Toward
+## Current Direction
 
-**Cybersecurity → Network Security → System Security → SOC / Security Operations**
-
-Currently strengthening the fundamentals through labs and CTFs rather than trying to collect 47 technologies like Pokémon.
-
----
-
-<div align="center">
-
-### Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/juweyriya-fedlu-a6b147349/) • [GitHub](https://github.com/Juweyriya38)
-
-</div>
+```text
+CYBERSECURITY
+      │
+      ├── Network Security
+      │
+      ├── System Security
+      │
+      └── Security Operations
