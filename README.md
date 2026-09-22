@@ -1,16 +1,21 @@
 <div align="center">
 
-# Juweyriya Fedlu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juweyriya%20Fedlu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Network%20%26%20System%20Security&descAlignY=60&descSize=18" width="100%"/>
 
-### Cybersecurity Student • Network & System Security
+<br>
 
-Building practical security skills through **networking labs, CTFs, system security, and hands-on training.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Network+%26+System+Security;Learning+%7C+Building+%7C+Breaking;CTFs+%7C+Security+Labs+%7C+Networking" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juweyriya-fedlu-a6b147349/)
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juweyriya-fedlu-a6b147349/)
 [![GitHub](https://img.shields.io/badge/GitHub-Juweyriya38-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juweyriya38)
 
 </div>
 
+---
+
+## 🛡️ About Me
 ---
 
 ## 👋 About Me
